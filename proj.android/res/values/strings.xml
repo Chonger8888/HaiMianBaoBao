@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- comm -->
+	<string name="comm_error_json">返回数据错误</string>
+	<string name="comm_error_visit_server">访问服务器出错</string>
+	<string name="sf_class_name">org.weme.candy.activity.c_game_candy</string>
+    <string name="app_name">海绵宝宝消消乐</string>
+	<!-- c_app_splash -->
+	<string name="splash_check_error_params">检查新版本出错：参数出错</string>
+	<string name="splash_check_no_new">没有新版本</string>
+    <!-- login -->
+    <string name="login_play_account_null">帐号不能为空</string>
+    <string name="login_play_password_null">密码不能为空</string>
+    <string name="logout_error_hint">注销失败</string>
+    <string name="login_error_device_id">获取设备码失败</string>
+    <string name="login_error_device_id_null">设备码为空</string>
+    <string name="login_error_json">解析数据错误</string>
+    <string name="login_error_http">访问服务器失败</string>
+    <string name="game_iapay_ini">正在初始化，请稍候再试</string>
+    <string name="game_iapay_error_param">生成订单失败</string>
+    <string name="author_list_title">全民消灭糖果</string>
+	<string name="author_list_content">2014\n\n制作人\nKent\n\n游戏策划\nRomila\tDjango\n\n运营策划\nTaylor\n\n美术设计\nTom\tBeryl\n\n特效制作\nEric\n\n程序设计\nLee\nEason\t\tEven\nLeaf\t\tWind\nRock\tAllen\tIvan\n\n音乐音效\nTomey Ling</string>
+	<string name="author_list_thank_you">Thank you!</string>
+	<!-- c_game_candy -->
+		<!-- Lua -->
+	<string name="verify_lua_error_params">校验Lua文件出错：参数错误</string>
+	<string name="verify_lua_error_split">校验Lua文件出错：MD5值没有用|分隔</string>
+	<string name="verify_lua_error_range">校验Lua文件出错：文件号必须在1&#8211;225</string>
+	<string name="verify_lua_error_unknown">校验Lua文件出错：未知错误</string>
+		<!-- IAP -->
+	<string name="iap_hint_process">正在处理中</string>
+	<string name="iap_error_confirm">IAP错误：确认订单失败，移动支付确定订单后，系统会自动下发道具。</string>
+	<string name="iap_error_unknown">IAP错误：未知错误</string>
+	<string name="iap_unipay_url">http://guest.candy.weme-game.com/2.0.0.guest/receive.php</string>
+	<string name="props_name">宝石</string>
+</resources>

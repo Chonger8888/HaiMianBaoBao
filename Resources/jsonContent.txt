@@ -1,0 +1,490 @@
+{
+    "status": 0,
+    "id": 0,
+    "description": "",
+    "content": {
+        "base_info": {
+            "userid": 206893,
+            "gender": 1,
+            "avatar_url": "http://guest.candy.weme-game.com/1.0.1.2.guest.mini/pic.x/user_default_00000000.png",
+            "nickname": "weme20051211",
+            "qq": "",
+            "avatar_upd_times": 0,
+            "first_login": 0,
+            "is_vip": 0,
+            "vip_length": 0,
+            "friend_points": 20,
+            "candy_currency": 1440,
+            "turntable_use_candy": 2000,
+            "today_lave_turntable_num": 10,
+            "new_bullentin": 0,
+            "today_has_receice": 0,
+            "registration_card_num": 0,
+            "pack_id": 5,
+            "num_day": 1,
+            "should_sign_day": 1,
+            "has_sign_day": 0,
+            "is_reple": 0,
+            "has_buy_super_packs": 0,
+            "super_pack_id": 33,
+            "open_kk_sdk": 1,
+            "fail_num": 0
+        },
+        "life_info": {
+            "life_countdown": 0,
+            "life_number": 7,
+            "life_id": 1,
+            "life_price": "50",
+            "life_name": "生命"
+        },
+        "stage_property_info": [
+            {
+                "product_id": 5,
+                "product_name": "加5步",
+                "product_price": "6",
+                "product_number": 10,
+                "is_promotions": "0",
+                "candy_price": "0",
+                "currency_type": 1
+            },
+            {
+                "product_id": 34,
+                "product_name": "彩糖炸弹",
+                "product_price": "6",
+                "product_number": 10,
+                "candy_price": "30",
+                "is_promotions": "0",
+                "currency_type": 3
+            },
+            {
+                "product_id": 35,
+                "product_name": "包装炸弹",
+                "product_price": "6",
+                "product_number": 10,
+                "candy_price": "30",
+                "is_promotions": "0",
+                "currency_type": 3
+            },
+            {
+                "product_id": 36,
+                "product_name": "刷新",
+                "product_price": "6",
+                "product_number": 10,
+                "candy_price": "0",
+                "is_promotions": "0",
+                "currency_type": 1
+            },
+            {
+                "product_id": 37,
+                "product_name": "互换",
+                "product_price": "6",
+                "product_number": 10,
+                "candy_price": "0",
+                "is_promotions": "0",
+                "currency_type": 1
+            },
+            {
+                "product_id": 38,
+                "product_name": "糖果锤",
+                "product_price": "6",
+                "product_number": 10,
+                "candy_price": "0",
+                "is_promotions": "0",
+                "currency_type": 1
+            }
+        ],
+        "fraction_info": [
+            {
+                "game_level": 15,
+                "number": 100000
+            },
+            {
+                "game_level": 16,
+                "number": 97170
+            },
+            {
+                "game_level": 17,
+                "number": 95700
+            }
+        ],
+        "packs_info": [
+            {
+                "id": 1,
+                "name": "畅玩包",
+                "extra": "生命5个；彩糖1个；炸弹糖1个",
+                "cost_price": 150,
+                "discount_price": 100,
+                "type": 1,
+                "pop_pack": 0
+            },
+            {
+                "id": 2,
+                "name": "闯关包",
+                "extra": "锤子2个；刷新1个；换位1个",
+                "cost_price": 320,
+                "discount_price": 200,
+                "type": 1,
+                "pop_pack": 0
+            },
+            {
+                "id": 3,
+                "name": "冲星包",
+                "extra": "双倍得分4个；锤子2个；刷新1个",
+                "cost_price": 440,
+                "discount_price": 320,
+                "type": 1,
+                "pop_pack": 0
+            },
+            {
+                "id": 4,
+                "name": "1号礼包",
+                "extra": "生命10个，彩糖2个；炸弹糖2个；锤子2个",
+                "cost_price": 200,
+                "discount_price": 80,
+                "type": 2,
+                "pop_pack": 0
+            },
+            {
+                "id": 5,
+                "name": "2号礼包",
+                "extra": "生命10个，彩糖5个；炸弹糖5个；刷新5个；锤子5个；加五3个",
+                "cost_price": 570,
+                "discount_price": 180,
+                "type": 2,
+                "pop_pack": 0
+            },
+            {
+                "id": 6,
+                "name": "3号礼包",
+                "extra": "生命15个，彩糖8个；炸弹糖8个；刷新8个；锤子8个；互换8个；加五5个",
+                "cost_price": 820,
+                "discount_price": 280,
+                "type": 2,
+                "pop_pack": 0
+            },
+            {
+                "id": 33,
+                "name": "超级大礼包",
+                "extra": "锤子3个，刷新3个；换位3个；炸弹糖3个；彩糖3个",
+                "cost_price": 100,
+                "discount_price": 100,
+                "type": 6,
+                "pop_pack": 0
+            }
+        ],
+        "precious_stone_info": {
+            "userid": "206893",
+            "precious_stone_number": 0
+        },
+        "cmcc_precious_stone_conf_info": [
+            {
+                "precious_stone_id": 14,
+                "precious_stone_name": "50宝石",
+                "precious_stone_price": "5",
+                "precious_stone": 50
+            },
+            {
+                "precious_stone_id": 16,
+                "precious_stone_name": "80宝石",
+                "precious_stone_price": "8",
+                "precious_stone": 80
+            },
+            {
+                "precious_stone_id": 17,
+                "precious_stone_name": "100宝石",
+                "precious_stone_price": "10",
+                "precious_stone": 100
+            },
+            {
+                "precious_stone_id": 18,
+                "precious_stone_name": "200宝石",
+                "precious_stone_price": "20",
+                "precious_stone": 200
+            }
+        ],
+        "vip_config": [
+            {
+                "product_id": 1002,
+                "product_name": "一周vip",
+                "precious_stone_price": "5",
+                "is_promotions": 1
+            },
+            {
+                "product_id": 1003,
+                "product_name": "一月vip",
+                "precious_stone_price": "8",
+                "is_promotions": 1
+            },
+            {
+                "product_id": 1004,
+                "product_name": "永久vip",
+                "precious_stone_price": "10",
+                "is_promotions": 1
+            }
+        ],
+        "config": {
+            "friend_points": 20,
+            "star_points": 3,
+            "main_task_points": 8,
+            "daily_task_points": 30,
+            "jar_replay_time": 259200,
+            "jar_price": 300,
+            "jar_hour_reduce": 3,
+            "send_vip_life_num": 2,
+            "unlock_point_limit_stone": 200,
+            "unlock_point_stone_to_one_star": 20,
+            "sign_card_price": 1
+        },
+        "registration": [
+            {
+                "sign_day": 1,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 1000
+                    }
+                ]
+            },
+            {
+                "sign_day": 2,
+                "combin": [
+                    {
+                        "type": 2,
+                        "num": 5
+                    }
+                ]
+            },
+            {
+                "sign_day": 3,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 1000
+                    }
+                ]
+            },
+            {
+                "sign_day": 4,
+                "combin": [
+                    {
+                        "type": 2,
+                        "num": 5
+                    }
+                ]
+            },
+            {
+                "sign_day": 5,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 1000
+                    },
+                    {
+                        "type": 2,
+                        "num": 5
+                    },
+                    {
+                        "type": 3,
+                        "num": 1
+                    }
+                ]
+            },
+            {
+                "sign_day": 6,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 2000
+                    }
+                ]
+            },
+            {
+                "sign_day": 7,
+                "combin": [
+                    {
+                        "type": 2,
+                        "num": 8
+                    }
+                ]
+            },
+            {
+                "sign_day": 8,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 3000
+                    }
+                ]
+            },
+            {
+                "sign_day": 9,
+                "combin": [
+                    {
+                        "type": 2,
+                        "num": 10
+                    }
+                ]
+            },
+            {
+                "sign_day": 10,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 3000
+                    },
+                    {
+                        "type": 2,
+                        "num": 10
+                    },
+                    {
+                        "type": 3,
+                        "num": 1
+                    }
+                ]
+            },
+            {
+                "sign_day": 11,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 4000
+                    }
+                ]
+            },
+            {
+                "sign_day": 12,
+                "combin": [
+                    {
+                        "type": 2,
+                        "num": 15
+                    }
+                ]
+            },
+            {
+                "sign_day": 13,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 5000
+                    }
+                ]
+            },
+            {
+                "sign_day": 14,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 5000
+                    },
+                    {
+                        "type": 2,
+                        "num": 15
+                    },
+                    {
+                        "type": 3,
+                        "num": 2
+                    }
+                ]
+            },
+            {
+                "sign_day": 15,
+                "combin": [
+                    {
+                        "type": 1,
+                        "num": 1000
+                    }
+                ]
+            }
+        ],
+        "unlock_star_data": [
+            {
+                "level": 15,
+                "unlock_star": 40,
+                "unlocked": 1
+            },
+            {
+                "level": 30,
+                "unlock_star": 80,
+                "unlocked": 0
+            },
+            {
+                "level": 45,
+                "unlock_star": 128,
+                "unlocked": 0
+            },
+            {
+                "level": 60,
+                "unlock_star": 173,
+                "unlocked": 0
+            },
+            {
+                "level": 75,
+                "unlock_star": 220,
+                "unlocked": 0
+            },
+            {
+                "level": 90,
+                "unlock_star": 263,
+                "unlocked": 0
+            },
+            {
+                "level": 105,
+                "unlock_star": 310,
+                "unlocked": 0
+            },
+            {
+                "level": 120,
+                "unlock_star": 353,
+                "unlocked": 0
+            },
+            {
+                "level": 135,
+                "unlock_star": 400,
+                "unlocked": 0
+            },
+            {
+                "level": 150,
+                "unlock_star": 445,
+                "unlocked": 0
+            },
+            {
+                "level": 165,
+                "unlock_star": 490,
+                "unlocked": 0
+            },
+            {
+                "level": 180,
+                "unlock_star": 535,
+                "unlocked": 0
+            },
+            {
+                "level": 195,
+                "unlock_star": 580,
+                "unlocked": 0
+            },
+            {
+                "level": 210,
+                "unlock_star": 625,
+                "unlocked": 0
+            },
+            {
+                "level": 225,
+                "unlock_star": 670,
+                "unlocked": 0
+            }
+        ],
+        "pass_level_add_candy_info": {
+            "growth_factor": 0.2,
+            "growth_value": 300,
+            "one_star": 50,
+            "two_star": 100,
+            "third_star": 200
+        },
+        "has_get_packs_level": [
+            {
+                "level": 15,
+                "type": 0
+            }
+        ]
+    }
+}

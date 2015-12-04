@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<dict>
+		<key>playharmer</key>
+		<dict>
+			<key>delay</key>
+			<real>0.2</real>
+			<key>frames</key>
+			<array>
+				<string>Chuizi00.png</string>
+				<string>Chuizi00.png</string>
+				<string>Chuizi00.png</string>
+				<string>Chuizi00.png</string>
+				<string>Chuizi01.png</string>
+				<string>Chuizi02.png</string>
+				<string>Chuizi03.png</string>
+				<string>Chuizi04.png</string>
+				<string>Chuizi05.png</string>
+				<string>Chuizi06.png</string>
+				<string>Chuizi07.png</string>
+				<string>Chuizi08.png</string>
+				<string>Chuizi09.png</string>
+				<string>Chuizi10.png</string>
+				<string>Chuizi11.png</string>
+				<string>Chuizi12.png</string>
+				<string>Chuizi12.png</string>
+				<string>Chuizi12.png</string>
+				<string>Chuizi12.png</string>
+				<string>Chuizi12.png</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>teachthistarget</key>
+	<string>这里是目标哦</string>
+	<key>teachFontdefined</key>
+	<string>我知道了</string>
+	<key>teachFont0101</key>
+	<string>尝试左右交换</string>
+	<key>teachFont0102</key>
+	<string>让四个糖果相连</string>
+	<key>teachFont0103</key>
+	<string>去达成目标吧</string>
+	<key>teachFont0201</key>
+	<string>四个同类糖果可变条纹糖</string>
+	<key>teachFont0202</key>
+	<string>条纹糖可横消或竖消</string>
+	<key>teachFont0301</key>
+	<string>尝试左右交换</string>
+	<key>teachFont0302</key>
+	<string>交换特殊糖果会有惊喜哦</string>
+	<key>teachFont0303</key>
+	<string>完成剩余的步数吧</string>
+	<key>teachFont0401</key>
+	<string>特殊糖果可组合</string>
+	<key>teachFont0402</key>
+	<string>用掉步数 达成分数</string>
+	<key>teachFont0501</key>
+	<string>五个同类糖果可变波板糖</string>
+	<key>teachFont0502</key>
+	<string>波板糖可消除所有同色糖果</string>
+	<key>teachFont06</key>
+	<string>消除冰块上的糖果就可以融化冰块</string>
+	<key>teachFont16</key>
+	<string>将所有魔法糖运送到出口就可过关</string>
+	<key>teachFont31</key>
+	<string>糖果附近的奶油可被消除</string>
+	<key>teachFont46</key>
+	<string>消除锁链之后才能消除里面的糖果</string>
+	<key>teachFont61</key>
+	<string>较厚的冰块需要消除两次</string>
+	<key>teachFont76</key>
+	<string>巧克力就会蔓延到糖果上</string>
+	<key>teachFont91</key>
+	<string>糖果会从蓝色传送门掉落到红色传送门</string>
+	<key>teachFont136</key>
+	<string>炸弹上的数字为0时,游戏失败</string>
+	<key>teachFont181</key>
+	<string>收集到指定的糖果或组合才能过关</string>
+</dict>
+</plist>

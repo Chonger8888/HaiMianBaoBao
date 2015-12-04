@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>		
+	<key>app_paytips_1_str</key><string>获得爱心大礼包一个，6元马上领取</string>
+	<key>app_paytips_2_str</key><string>在场上生成一个可以爆炸的特殊糖果，6元。</string>
+	<key>app_paytips_3_str</key><string>可将场上任意一个普通糖果变为彩糖，6元。</string>
+	<key>app_paytips_4_str</key><string>可将场上任意一个糖果敲碎，6元。</string>
+	<key>app_paytips_5_str</key><string>重新将场上糖果进行排列，6元。</string>
+	<key>app_paytips_6_str</key><string>临近的糖果位置互换，6元。</string>
+	<key>app_paytips_7_str</key><string>令游戏原本的移动限制步数加5步，6元。</string>
+	<key>app_paytips_8_str</key><string>购买刷新×2,包装炸弹×2,糖果锤×3,彩糖炸弹×2,获得1个新手大礼包.20元</string>
+	<key>app_paytips_11_str</key><string>购买刷新×2,交换×2,锤子×2,彩糖×2,炸弹×3,获得1个至尊大礼包,20元马上领取。</string>
+	<key>app_paytips_12_str</key><string>特权来啦！立即3星完成本关！直接三星通过本关，10元马上过关</string>
+	<key>app_paytips_13_str</key><string>解锁全部关卡。20元解锁全部关卡。</string>
+	<key>app_paytips_14_str</key><string>购买可获得生命×10，炸弹×10，获得1个优惠礼包，10元马上领取。</string>
+	<key>app_paytips_15_str</key><string>获得一个炸弹大礼包，10元马上领取</string>	
+	<key>app_unlockfuntion_str</key><string>该功能第%d关后开启</string>
+	<key>app_3levelunlock_str</key><string>该功能第3关后开启</string>
+	<key>app_8levelunlock_str</key><string>该功能第8关后开启</string>
+	<key>app_30levelunlock_str</key><string>该功能第30关后开启</string>
+	<key>app_20levelunlock_str</key><string>该功能第20关后开启</string>
+	<key>app_viplunlock_str</key><string>开通VIP才可以补签</string>
+	<key>app_noget_str</key><string>您今天已经不能再领取</string>
+	<key>app_finishtask_str</key><string>(已完成)</string>
+	<key>app_chliktaskexp_str</key><string>点击可查看通关奖励</string>
+	<key>app_giftbig1_str</key><string>新手大礼包</string>
+	<key>app_giftbig2_str</key><string>进阶大礼包</string>
+	<key>app_giftbig3_str</key><string>高端大礼包</string>
+  <key>app_roulette_no_num_str</key><string>今日已经转过10次了</string>	
+  <key>app_shop_no_candy_str</key><string>糖果币不足</string>	
+	<key>app_signintime_str</key><string>%d天后清空签到信息</string>
+	<key>app_unlocktask_str</key><string>%d关开启</string>
+	<key>app_sytime_str</key><string>剩余时间:</string>
+	<key>app_loadlun_str</key><string>加载关卡数据！</string>	
+	<key>app_loading_str</key><string>拼命加载中</string>
+	<key>app_signinsuc_str</key><string>签到成功!</string>
+	<key>app_RankedUpprompt_str</key><string>恭喜!您的世界排名上升了</string>	
+	<key>app_changeinfoprompt_str</key><string>恭喜!您获得免费更改资料的机会!</string>	
+	<key>app_VIPlifeprompt_str</key><string>VIP可以加快生命恢复</string>	
+	<key>app_VIPTaskprompt_str</key><string>VIP可以获得额外每日任务</string>	
+	<key>app_unlockstarTaskprompt_str</key><string>恭喜!您开启了"星星收集"</string>	
+	<key>app_unlockMainTaskrompt_str</key><string>恭喜!您开启了"糖果之旅"</string>		
+	<key>app_unlockMsgOrFriendprompt_str</key><string>恭喜!您开启了"小伙伴"</string>
+	<key>app_unlockdayTaskprompt_str</key><string>恭喜!您开启了"日常任务"</string>	
+	<key>app_friendNumLimitprompt_str</key><string>好友上限+1</string>	
+	<key>app_noGetRewardprompt_str</key><string>您今天已经不能再领取了</string>	
+	<key>app_noAddfriendprompt_str</key><string>您好友已满,请先扩充上限</string>	
+	<key>app_buyfriendprompt_str</key><string>好友上限+5</string>	
+	<key>app_taskfinish_str</key><string>已完成</string>		
+	<key>app_handsellife_str</key><string>%s送你一个糖果币</string>	
+	<key>app_invitefriend_str</key><string>%s请求加你好友</string>
+	<key>app_friendlevel_str</key><string>%d关</string>
+	<key>app_handsel_str</key><string>赠送给您%s</string>
+	<key>app_claim_str</key><string>向您索要道具</string>
+	<key>app_handselover_str</key><string>已赠送</string>
+	<key>app_my_handsel_friend_str</key><string>我给%s</string>
+	<key>app_my_handsel_friend_str1</key><string>赠送%s</string>
+	<key>app_friend_handsel_my_str</key><string>%s给我</string>
+	<key>app_friend_handsel_my_str1</key><string>赠送%s</string>
+	<key>app_my_claim_friend_str</key><string>我向%s</string>
+	<key>app_my_claim_friend_str1</key><string>索要%s</string>
+	<key>app_friend_claim_my_str</key><string>%s向我</string>
+	<key>app_friend_claim_my_str1</key><string>索要%s</string>
+	<key>app_no_message_str</key><string>您暂时没有任何消息！</string>
+	<key>app_difftime_sec</key><string>%d秒前</string>
+	<key>app_difftime_min</key><string>%d分钟前</string>
+	<key>app_difftime_hour</key><string>%d小时前</string>
+	<key>app_difftime_day</key><string>%d天前</string>
+	<key>app_prop2_title</key><string>加三步</string>
+	<key>app_prop3_title</key><string>条纹</string>
+	<key>app_prop4_title</key><string>包装糖</string>
+	<key>app_prop5_title</key><string>加五步</string>
+	<key>app_prop6_title</key><string>横向消除</string>
+	<key>app_prop7_title</key><string>爆炸消除</string>
+	<key>app_prop8_title</key><string>神灯</string>
+	<key>app_prop33_title</key><string>加强得分</string>
+	<key>app_prop34_title</key><string>彩糖</string>
+	<key>app_prop35_title</key><string>包装糖</string>
+	<key>app_prop36_title</key><string>刷新</string>
+	<key>app_prop37_title</key><string>换位</string>
+	<key>app_prop38_title</key><string>锤子</string>
+	<key>app_prop2_expain</key><string>令游戏原本的移动限制步数加3</string>
+	<key>app_prop3_expain</key><string>令游戏一开始就拥有条纹糖果</string>
+	<key>app_prop4_expain</key><string>本关开场会拥有一个包装糖</string>
+	<key>app_prop5_expain</key><string>令游戏原本的移动限制步数加5</string>
+	<key>app_prop6_expain</key><string>对指定地点进行一次横向消除</string>
+	<key>app_prop7_expain</key><string>对指定地点上进行一次爆炸消除</string>
+	<key>app_prop8_expain</key><string>将罐子充满,每局最多一次</string>
+	<key>app_prop8_expain0</key><string>重复购买价格提升</string>
+	<key>app_prop33_expain</key><string>使用后该局游戏分数翻倍</string>
+	<key>app_prop34_expain</key><string>可将场上任意一个普通糖果变为彩糖</string>
+	<key>app_prop35_expain</key><string>在场上生成一个可以爆炸的特殊糖果</string>
+	<key>app_prop36_expain</key><string>重新将场上糖果进行排列</string>
+	<key>app_prop37_expain</key><string>临近的糖果位置互换</string>
+	<key>app_prop38_expain</key><string>可将场上任意一个糖果敲碎</string>
+	<key>app_prop5_expain1_forknapsack</key><string>令游戏原本的移动限制步数加5</string>
+	<key>app_prop5_expain2_forknapsack</key><string></string>
+  <key>app_prop8_expain1_forknapsack</key><string>神灯回应了你的甜蜜愿望，用神奇</string>
+	<key>app_prop8_expain2_forknapsack</key><string>的魔法助你突破困难的关卡</string>
+	<key>app_prop33_expain1_forknapsack</key><string>使用后让本局游戏分数翻倍，轻松</string>
+	<key>app_prop33_expain2_forknapsack</key><string>获得惊人的分数.</string>
+	<key>app_prop34_expain1_forknapsack</key><string>让你在开场就拥有一个彩色糖果，</string>
+	<key>app_prop34_expain2_forknapsack</key><string>让全场某种颜色的糖果消失无踪</string>
+	<key>app_prop35_expain1_forknapsack</key><string>让你在开场就拥有一个包装糖，会</string>
+	<key>app_prop35_expain2_forknapsack</key><string>产生两次威力巨大的爆炸</string>
+	<key>app_prop36_expain1_forknapsack</key><string>上天回应了你的甜蜜愿望，将场</string>
+	<key>app_prop36_expain2_forknapsack</key><string>上糖果进行重新排列</string>
+	<key>app_prop37_expain1_forknapsack</key><string>将临近的两个糖果进行位置互换，</string>
+	<key>app_prop37_expain2_forknapsack</key><string>使用得当可获得惊天逆转</string>
+	<key>app_prop38_expain1_forknapsack</key><string>巨大的锤子可以将目标糖果打得</string>
+	<key>app_prop38_expain2_forknapsack</key><string>粉碎</string>
+	<key>app_accept_success</key><string>接受成功</string>
+	<key>app_chit_noopen</key><string>聊天功能未开启!</string>
+	<key>app_buy_success</key><string>购买成功</string>
+	<key>app_invite_success</key><string>邀请成功</string>
+	<key>app_submit_success</key><string>提交成功</string>
+	<key>app_feedback_success</key><string>反馈成功</string>
+	<key>app_prompt_neterror</key><string>网络异常!请检查网络设置!</string>
+	<key>app_prompt_delfriend</key><string>你是否删除好友</string>
+	<key>app_prompt_friendlimit</key><string>你的好友超过上限</string>
+	<key>app_prompt_lacklifetomap1</key><string>你的生命力不足！</string>
+	<key>app_prompt_lacklifetomap2</key><string>不足,请返回大地图购买!</string>
+	<key>app_people1_say1</key><string>薇薇，我们快点出发去找梦幻糖吧！</string>
+	<key>app_people2_say1</key><string>别急，我先告诉你一些在糖果世界前进的规则吧！</string>
+	<key>app_people1_say2</key><string>好啊，好啊！</string>
+	<key>gift_describe_1</key><string>开启礼包立即获得</string>
+	<key>gift_describe_2_4</key><string>生命10个 彩糖2个 炸弹糖2个</string>
+	<key>gift_describe_2_5</key><string>生命10个 双倍得分3个 锤子2个 刷新2个</string>
+	<key>gift_describe_2_6</key><string>生命10个 锤子3个 刷新3个 换位3个</string>
+  <key>giftDescribe_4</key>
+  <string>立即领取新手大礼包：生命10，彩糖2，炸弹糖2，锤子2个，加五1个</string>
+  <key>giftDescribe_5</key>
+  <string>立即领取进阶大礼包：生命10，彩糖5，炸弹糖5，刷新5个，锤子5，加五3个</string>
+  <key>giftDescribe_6</key>
+  <string>立即领取高端大礼包：生命15，彩糖8，炸弹糖8，刷新8个，锤子8，互换8个，加五5个</string>
+  <key>newPropDesc_5</key>
+  <string>亲爱的小伙伴！是否确认即同意购买加5步*1，信息费5元，需要发送1条短信（不含通信费）,确认购买?</string>
+  <key>newPropDesc_33</key>
+  <string></string>
+  <key>newPropDesc_34</key>
+  <string>亲爱的小伙伴！是否确认即同意购买彩糖炸弹*1，信息费5元，需要发送1条短信（不含通信费）,确认购买?</string>
+  <key>newPropDesc_35</key>
+  <string>亲爱的小伙伴！是否确认即同意购买包装炸弹*1，信息费5元，需要发送1条短信（不含通信费）,确认购买?</string>
+  <key>newPropDesc_36</key>
+  <string>亲爱的小伙伴！是否确认即同意购买刷新*3，信息费5元，需要发送1条短信（不含通信费）,确认购买?</string>
+  <key>newPropDesc_37</key>
+  <string>亲爱的小伙伴！是否确认即同意购买互换*3，信息费5元，需要发送1条短信（不含通信费）,确认购买?</string>
+  <key>newPropDesc_38</key>
+  <string>亲爱的小伙伴！是否确认即同意购买糖果锤*1，信息费5元，需要发送1条短信（不含通信费）,确认购买?</string>
+ <key>silverRewardTips</key>
+  <string>本章节获得35颗星可领取白银礼包</string>
+  <key>goldRewardTips</key>
+  <string>本章节获得45颗星可领取黄金礼包</string>
+ <key>silverRewardDesc</key>
+  <string>可领取生命x5、彩糖炸弹x1、锤子x1、炸弹糖x1、重排x1、互换x1，请再接再厉!</string>
+ <key>goldRewardDesc</key>
+  <string>可领取生命x5、彩糖炸弹x3、铲子x3、炸弹糖x3、重排x3、互换x3，请再接再厉!</string>
+<key>payMax</key>
+  <string>今天已超过支付限额</string>
+<key>BuyLifeDesc</key>
+  <string>您的生命不足，是否立即为您补充5条生命?</string>
+<key>BuySuperLifeDesc</key>
+  <string>立即补充30条生命！</string>
+<key>RetryUpdatePay</key>
+  <string>当前网络状况较差,正在进行重试..</string>
+<key>RetryFailed</key>
+  <string>抱歉!当前网络状况太差,请重启游戏后查收道具.</string>
+<key>isPaying</key>
+  <string>当前正有支付未完成,请稍候再试.</string>
+<key>ClickTooQuick</key>
+  <string>您的操作太快</string>
+<key>YijieUserId</key>
+  <string>用户ID:</string>
+</dict>
+</plist>
